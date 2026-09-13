@@ -6,4 +6,4 @@ Turma: ESOFT2SNB
 Realizado por:
 - Gabriel Navarro Germano - RA: 26005537-2
 - Heitor Kaminagakura Corrradi - RA: 26010122-2
-- Luidy Rolphe Bianchini - RA: 260053602
+- Luidy Rolphe Bianchini - RA: 26005360-2
