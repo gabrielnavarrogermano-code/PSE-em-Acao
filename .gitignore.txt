@@ -1,0 +1,5 @@
+# Executaveis e arquivos objeto gerados na compilacao
+*.exe
+*.o
+*.obj
+pse-em-acao
