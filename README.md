@@ -50,25 +50,6 @@ data inválida, opção inexistente, registro inexistente e limite de 100 açõe
 > Não abra apenas o `main.c` para compilar: as funções ficam em `acoes.c` e `relatorio.c`,
 > e o Dev-C++ mostraria erros como `undefined reference to 'cadastrarAcao'`.
 
-### Pelo terminal
-
-É necessário o compilador **GCC** (no Windows: MinGW-w64; no Linux: `sudo apt install gcc`).
-Na pasta raiz do repositório, compile com:
-
-```bash
-gcc -o pse-em-acao src/main.c src/acoes.c src/relatorio.c
-```
-
-E execute com:
-
-```bash
-./pse-em-acao        # Linux
-pse-em-acao.exe      # Windows (Prompt de Comando)
-.\pse-em-acao.exe    # Windows (PowerShell / terminal do VS Code)
-```
-
-O programa inicia sem ações cadastradas. Os dados ficam apenas na memória e são descartados
-ao encerrar.
 
 ## Estrutura do repositório
 
