@@ -69,8 +69,8 @@ padrões C89 e C99.
 PSE-em-Acao/
 |-- README.md              -> descricao, integrantes, compilacao e execucao
 |-- documentacao/
-|   |-- entrega-1/         -> documento da 1a entrega
-|   |-- entrega-2/         -> documento final (PDF)
+|   |-- entrega-1.pdf      -> documento da 1a entrega
+|   |-- entrega-2.pdf      -> documento final da 2a entrega
 |-- src/
 |   |-- main.c             -> menu principal e chamadas das funcoes
 |   |-- acoes.h            -> struct Acao, constantes e prototipos das funcoes
@@ -81,8 +81,8 @@ PSE-em-Acao/
 
 ## Documentação
 
-- **1ª entrega:** [documento escrito](documentacao/entrega-1/entrega-1.pdf)
-- **2ª entrega:** [documento final](documentacao/entrega-2/entrega-2.pdf), com requisitos
+- **1ª entrega:** [documento escrito](documentacao/entrega-1.pdf)
+- **2ª entrega:** [documento final](documentacao/entrega-2.pdf), com requisitos
   atualizados, casos de uso, fluxogramas, testes, manual do usuário (com capturas de tela) e
   considerações finais
 - **Vídeo de apresentação:** *link a ser adicionado após a publicação*
