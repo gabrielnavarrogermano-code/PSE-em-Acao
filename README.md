@@ -85,4 +85,4 @@ PSE-em-Acao/
 - **2ª entrega:** [documento final](documentacao/entrega-2.pdf), com requisitos
   atualizados, casos de uso, fluxogramas, testes, manual do usuário (com capturas de tela) e
   considerações finais
-- **Vídeo de apresentação:** *link a ser adicionado após a publicação*
+- **Vídeo de apresentação:** https://youtu.be/1ezvoIdVE9U
